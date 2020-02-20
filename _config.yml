@@ -21,10 +21,9 @@ url: "https://quakerspage.github.io"
 # List of links in the navigation bar
 navbar-links:
   Introduce: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Category:
+    - 1_ing: "http://deanattali.com/beautiful-jekyll/"
+    - 2_ing: "http://www.markdowntutorial.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
